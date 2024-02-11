@@ -4,6 +4,11 @@
 # Coffee Shop People Count Maintenance
 
 This project aims to maintain the count of people entering and exiting a coffee shop using YOLO object detection.
+- To adhere to COVID-19 safety measures, the coffee shop enforces a maximum capacity of four customers inside the premises.
+- This restriction aims to maintain adequate social distancing among patrons and prevent overcrowding.
+- Once the count of customers inside reaches four, entry to the shop is prohibited until the number decreases below the threshold.
+- Implementing this limit prioritizes the health and safety of both customers and staff, reducing the risk of virus transmission.
+- The measure reflects the coffee shop's commitment to responsible management and compliance with public health guidelines during the pandemic.
 
 ## Usage
 
